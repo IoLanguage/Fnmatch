@@ -1,0 +1,15 @@
+{
+  "name":         "Fnmatch",
+  "version":      "0.1",
+  "description":  "The fnmatch add on adds support for the unix fnmatch function.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Fnmatch"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  ["fnmatch.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
